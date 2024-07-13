@@ -1,5 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-# Specify R as the primary language for .R files
-*.R linguist-language=R
